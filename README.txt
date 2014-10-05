@@ -1,9 +1,16 @@
+About this project
+——————————————————
+This project is for the course ECE 5760 Advanced Microcontroller Design at Cornell. The members in our group include Kang Li (kl694), Ningning Ding (nd333), and Zequn Huang (zh239)
+
+
+
+
+
 DE2_Tv
 ------
 
 This design converts DVD video into a format suitable for display on a CRT/LCD monitor. A DVD video source, such as a DVD player, should be connected to the VIDEO IN port on the DE2 board. A CRT/LCD monitor should be connected to the VGA port. The DVD video should be displayed on the monitor.
 
-Initially, the video may be shifted vertically; press KEY0 to force the design to resynchronize.
 
 Running the Design
 ------------------
