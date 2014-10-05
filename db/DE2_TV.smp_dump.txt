@@ -1,0 +1,21 @@
+
+State Machine - |DE2_TV|state_vga
+Name state_vga.state2 
+state_vga.state1 0 
+state_vga.state2 1 
+
+State Machine - |DE2_TV|state_sound
+Name state_sound.state2 
+state_sound.state1 0 
+state_sound.state2 1 
+
+State Machine - |DE2_TV|state
+Name state.state1 
+state.idle 0 
+state.state1 1 
+
+State Machine - |DE2_TV|I2C_AV_Config:u1|mSetup_ST
+Name mSetup_ST.0000 mSetup_ST.0010 mSetup_ST.0001 
+mSetup_ST.0000 0 0 0 
+mSetup_ST.0001 1 0 1 
+mSetup_ST.0010 1 1 0 

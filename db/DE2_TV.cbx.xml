@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="DE2_TV">
+		<CBX_INST_ENTRY INSTANCE_NAME="|DE2_TV|YCbCr2RGB:u8|MAC_3:u1|altmult_add:ALTMULT_ADD_component" CBX_FILE_NAME="mult_add_4f74.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|DE2_TV|Line_Buffer:u10|altshift_taps:altshift_taps_component" CBX_FILE_NAME="shift_taps_k0r.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|DE2_TV|YCbCr2RGB:u8|MAC_3:u2|altmult_add:ALTMULT_ADD_component" CBX_FILE_NAME="mult_add_4f74.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|DE2_TV|Line_Buffer:u11|altshift_taps:altshift_taps_component" CBX_FILE_NAME="shift_taps_k0r.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|DE2_TV|Mirror_Col:u100|Stack_RAM:comb_96|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_ppq1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|DE2_TV|Sdram_Control_4Port:u6|Sdram_WR_FIFO:write_fifo2|dcfifo:dcfifo_component" CBX_FILE_NAME="dcfifo_iep1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|DE2_TV|sine_attack_decay:fm|lpm_mult:Mult0" CBX_FILE_NAME="mult_l8t.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|DE2_TV|Mirror_Col:u100|Stack_RAM:comb_130|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_ppq1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|DE2_TV|Mirror_Col:u100|Stack_RAM:comb_62|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_ppq1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|DE2_TV|Sdram_Control_4Port:u6|Sdram_RD_FIFO:read_fifo1|dcfifo:dcfifo_component" CBX_FILE_NAME="dcfifo_iep1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|DE2_TV|YCbCr2RGB:u8|MAC_3:u0|altmult_add:ALTMULT_ADD_component" CBX_FILE_NAME="mult_add_4f74.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|DE2_TV|lpm_divide:Mod0" CBX_FILE_NAME="lpm_divide_l6m.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|DE2_TV|sine_attack_decay:fm|lpm_mult:Mult1" CBX_FILE_NAME="mult_k1t.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|DE2_TV|sine_attack_decay:fm|sync_rom:sineTable|altsyncram:Ram0_rtl_0" CBX_FILE_NAME="altsyncram_48a1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|DE2_TV|vga_buffer:display|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_dle2.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|DE2_TV|Sdram_Control_4Port:u6|Sdram_RD_FIFO:read_fifo2|dcfifo:dcfifo_component" CBX_FILE_NAME="dcfifo_iep1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|DE2_TV|bruce:bruce|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_h7i1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|DE2_TV|lpm_divide:Mod1" CBX_FILE_NAME="lpm_divide_l6m.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|DE2_TV|sine_attack_decay:sine_fm|lpm_mult:Mult0" CBX_FILE_NAME="mult_l8t.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|DE2_TV|DIV:u5|lpm_divide:lpm_divide_component" CBX_FILE_NAME="lpm_divide_d6t.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|DE2_TV|Sdram_Control_4Port:u6|Sdram_WR_FIFO:write_fifo1|dcfifo:dcfifo_component" CBX_FILE_NAME="dcfifo_iep1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|DE2_TV|sine_attack_decay:sine_fm|lpm_mult:Mult1" CBX_FILE_NAME="mult_k1t.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|DE2_TV|sine_attack_decay:sine_fm|sync_rom:sineTable|altsyncram:Ram0_rtl_0" CBX_FILE_NAME="altsyncram_48a1.tdf"/>
+	</PROJECT>
+</LOG_ROOT>

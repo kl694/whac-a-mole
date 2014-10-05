@@ -1,0 +1,1 @@
+Warning (10268): Verilog HDL information at DE2_TV.v(995): always construct contains both blocking and non-blocking assignments
