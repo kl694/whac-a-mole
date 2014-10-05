@@ -1,6 +1,6 @@
 About this project
 ——————————————————
-This project is for the course ECE 5760 Advanced Microcontroller Design at Cornell. The members in our group include Kang Li (kl694), Ningning Ding (nd333), and Zequn Huang (zh239)
+This project is for the course ECE 5760 Advanced Microcontroller Design at Cornell. The members in our group include Kang Li (kl694), Ningning Ding (nd333), and Zequn Huang (zh239). We designed a Whac-A-Mole game with video tracking on Altera DE2 FPGA board.
 
 
 
