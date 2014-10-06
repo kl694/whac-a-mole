@@ -1,8 +1,10 @@
 About this project
 ——————————————————
-This project is for the course ECE 5760 Advanced Microcontroller Design at Cornell. The members in our group include Kang Li (kl694), Ningning Ding (nd333), and Zequn Huang (zh239). We designed a Whac-A-Mole game with video tracking on Altera DE2 FPGA board.
+Youtube Link: https://www.youtube.com/watch?v=L7q5g2qjT5U&list=PL2E0D05BEC0140F13
 
+This project is for the course ECE 5760 Advanced Microcontroller Design at Cornell. The members in our group include Kang Li (kl694), Ningning Ding (nd333), and Zequn Huang (zh239). Our instructor, Bruce Land, gave us a lot of advices. We designed a Whac-A-Mole game with video tracking on Altera DE2 FPGA board. The whole project is written in synthesizable Verilog.
 
+We use HDMI interface to receive data from the webcam.
 
 
 
